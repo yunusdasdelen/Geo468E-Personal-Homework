@@ -1,4 +1,5 @@
-# Geo468E-Personal-Homework           ![ITU LOGO](Image for read me/ITU_logo.png)
+# Geo468E-Personal-Homework           
+![ITU LOGO](Image for read me/ITU_logo.png)
 ## Prepared By Yunus Daşdelen
 
 This repository contains documentation and code for Geo468e lecture
