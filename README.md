@@ -24,8 +24,10 @@ NDVI measures the difference between red and near-infrared (NIR) light reflectan
 ![NDVI calculation](https://github.com/yunusdasdelen/Geo468E-Personal-Homework/blob/main/Image%20for%20read%20me/ndvi.PNG)
 
 # Output Images
+
 - NDVI 2016
 ![](https://github.com/yunusdasdelen/Geo468E-Personal-Homework/blob/main/Image%20for%20read%20me/ndvi2016.PNG)
+
 -NDVI 2020
 ![](https://github.com/yunusdasdelen/Geo468E-Personal-Homework/blob/main/Image%20for%20read%20me/ndvi2020.PNG)
 
