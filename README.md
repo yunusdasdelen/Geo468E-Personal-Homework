@@ -1,4 +1,5 @@
-# Geo468E-Personal-Homework           
+# Geo468E-Personal-Homework         
+![ITU LOGO](https://github.com/yunusdasdelen/Geo468E-Personal-Homework/blob/main/Image%20for%20read%20me/ITU_logo.png)   
 ## Prepared By Yunus Daşdelen
 
 This repository contains documentation and code for Geo468e lecture
@@ -28,4 +29,4 @@ NDVI measures the difference between red and near-infrared (NIR) light reflectan
 
 
 
-![ITU LOGO](https://github.com/yunusdasdelen/Geo468E-Personal-Homework/blob/main/Image%20for%20read%20me/ITU_logo.png)
+
