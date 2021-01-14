@@ -34,7 +34,7 @@ NDVI measures the difference between red and near-infrared (NIR) light reflectan
 -NDVI 2020
 
 
-![](https://github.com/yunusdasdelen/Geo468E-Personal-Homework/blob/main/Image%20for%20read%20me/ndvi2020.PNG.)
+![](https://github.com/yunusdasdelen/Geo468E-Personal-Homework/blob/main/Image%20for%20read%20me/ndvi2020.PNG)
 
 # Reference
 - ["Hatarilabs NDVI calculation"](https://www.hatarilabs.com/ih-en/ndvi-calculation-from-landsat8-images-with-python-3-and-rasterio-tutorial)
