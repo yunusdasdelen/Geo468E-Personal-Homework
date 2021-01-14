@@ -16,6 +16,7 @@ Libraries to use in conda environment
 
 # Input Bands for landsat8
 -Band4 (RED)
+
 -Band5 (NIR)
 
 # NDVI Calculations
