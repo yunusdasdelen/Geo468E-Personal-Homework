@@ -34,12 +34,6 @@ NDVI measures the difference between red and near-infrared (NIR) light reflectan
 
 
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-
 
 -NDVI 2020
 
