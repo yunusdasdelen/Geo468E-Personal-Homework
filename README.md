@@ -18,11 +18,9 @@ Libraries to use in conda environment
 -Band5 (NIR)
 
 # NDVI Calculations
-
+NDVI measures the difference between red and near-infrared (NIR) light reflectance from vegetation to create a photosynthetic creatures
 
 # Output Images
-"""
-sadas"
-"sadadsa"'''
-'''2323
-"""
+
+- https://www.hatarilabs.com/ih-en/ndvi-calculation-from-landsat8-images-with-python-3-and-rasterio-tutorial
+
