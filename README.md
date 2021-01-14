@@ -22,5 +22,5 @@ NDVI measures the difference between red and near-infrared (NIR) light reflectan
 
 # Output Images
 
-- https://www.hatarilabs.com/ih-en/ndvi-calculation-from-landsat8-images-with-python-3-and-rasterio-tutorial
+- ["sadasdasdas"](https://www.hatarilabs.com/ih-en/ndvi-calculation-from-landsat8-images-with-python-3-and-rasterio-tutorial)
 
