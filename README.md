@@ -1,5 +1,4 @@
 # Geo468E-Personal-Homework           
-[ITU LOGO](Image for read me/ITU_logo.png)
 ## Prepared By Yunus Daşdelen
 
 This repository contains documentation and code for Geo468e lecture
@@ -26,3 +25,7 @@ NDVI measures the difference between red and near-infrared (NIR) light reflectan
 # Reference
 - ["Hatarilabs NDVI calculation"](https://www.hatarilabs.com/ih-en/ndvi-calculation-from-landsat8-images-with-python-3-and-rasterio-tutorial)
 - ["NDVI informations and NDVI image"](https://earthobservatory.nasa.gov/features/MeasuringVegetation/measuring_vegetation_2.php)
+
+
+
+![ITU LOGO](Image for read me/ITU_logo.png)
