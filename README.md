@@ -1,3 +1,4 @@
+![ITU LOGO](https://github.com/yunusdasdelen/Geo468E-Personal-Homework/blob/main/Image%20for%20read%20me/ITU_logo.png)
 # Geo468E-Personal-Homework          
 ## Prepared By Yunus Daşdelen
 
@@ -18,7 +19,8 @@ Libraries to use in conda environment
 -Band5 (NIR)
 
 # NDVI Calculations
-NDVI measures the difference between red and near-infrared (NIR) light reflectance from vegetation to create a photosynthetic creatures
+NDVI measures the difference between red and near-infrared (NIR) light reflectance from vegetation to create a photosynthetic creatures.
+![NDVI calculation](https://github.com/yunusdasdelen/Geo468E-Personal-Homework/blob/main/Image%20for%20read%20me/ndvi.PNG)
 
 # Output Images
 
@@ -26,6 +28,6 @@ NDVI measures the difference between red and near-infrared (NIR) light reflectan
 - ["Hatarilabs NDVI calculation"](https://www.hatarilabs.com/ih-en/ndvi-calculation-from-landsat8-images-with-python-3-and-rasterio-tutorial)
 - ["NDVI informations and NDVI image"](https://earthobservatory.nasa.gov/features/MeasuringVegetation/measuring_vegetation_2.php)
 
-![ITU LOGO](https://github.com/yunusdasdelen/Geo468E-Personal-Homework/blob/main/Image%20for%20read%20me/ITU_logo.png)
+
 
 
