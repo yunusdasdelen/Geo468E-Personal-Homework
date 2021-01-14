@@ -21,6 +21,8 @@ Libraries to use in conda environment
 
 # NDVI Calculations
 NDVI measures the difference between red and near-infrared (NIR) light reflectance from vegetation to create a photosynthetic creatures.
+
+
 ![NDVI calculation](https://github.com/yunusdasdelen/Geo468E-Personal-Homework/blob/main/Image%20for%20read%20me/ndvi.PNG)
 
 # Output Images
