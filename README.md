@@ -41,6 +41,8 @@ NDVI measures the difference between red and near-infrared (NIR) light reflectan
 ![](https://github.com/yunusdasdelen/Geo468E-Personal-Homework/blob/main/Image%20for%20read%20me/ndvi2020.PNG)
 
 
+As can be seen from the ndvi images, changing vegetation areas are seen in 4 years.
+
 
 
 # Reference
