@@ -6,7 +6,7 @@ This repository contains documentation and code for Geo468e lecture
 
 # Vegetation Change Detection
 
-The aim of this project is to find the vegetation difference between 2016 and 2020 in Catalca district in Istanbul. The project images have been downloaded from usgsnin https://earthexplorer.usgs.gov/ site. With the help of Landsat8 data, satellite images of Çatalca in 2016 and July 2020 were used and NDVI was calculated.
+Vegetation change is a temporal phenomenon since spectral response variance includes situations where the spectral characteristics of the vegetation or other form of cover change over time in a given area. The aim of this project is to find the vegetation difference between 2016 and 2020 in Catalca district in Istanbul. The project images have been downloaded from usgsnin https://earthexplorer.usgs.gov/ site. With the help of Landsat8 data, satellite images of Çatalca in 2016 and July 2020 were used and NDVI was calculated.
 
 # Libraries Used in Jupyter Notebook
 Libraries to use in conda environment
