@@ -20,6 +20,7 @@ Libraries to use in conda environment
 -Band5 (NIR)
 
 # NDVI Calculations
+The NDVI is a vegetation index commonly used for measures of environmental impact measurement, agricultural assessment, and land use transition.
 NDVI measures the difference between red and near-infrared (NIR) light reflectance from vegetation to create a photosynthetic creatures.
 
 
